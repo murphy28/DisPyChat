@@ -1,0 +1,9 @@
+{
+    "prefix":"!",
+    "botname":"DispoBot",
+    "userAgent":"Disposable Chat Bot",
+    "room": {
+        "name":"Enter Room Name Here",
+        "password":""
+    }
+}
